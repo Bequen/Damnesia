@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"/home/martin/Projects/UnrealProjects/MyProject2/.git": true,
+		"/home/martin/Projects/UnrealProjects/MyProject2/.vscode": true,
+		"/home/martin/Projects/UnrealProjects/MyProject2/Content": true,
+		"/home/martin/Projects/UnrealProjects/MyProject2/DerivedDataCache": true,
+		"/home/martin/Projects/UnrealProjects/MyProject2/Intermediate": true,
+		"/home/martin/Projects/UnrealProjects/MyProject2/Saved": true
+	}
+}
